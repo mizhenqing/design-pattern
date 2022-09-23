@@ -1,0 +1,1 @@
+c++ "CMakeFiles/simple-pattern.dir/main.cpp.o" -o bin/simple-pattern 

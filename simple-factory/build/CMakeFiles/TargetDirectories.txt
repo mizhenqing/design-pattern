@@ -1,0 +1,3 @@
+/home/supcon/git/source/qing/design-pattern/simple-factory/build/CMakeFiles/simple-pattern.dir
+/home/supcon/git/source/qing/design-pattern/simple-factory/build/CMakeFiles/edit_cache.dir
+/home/supcon/git/source/qing/design-pattern/simple-factory/build/CMakeFiles/rebuild_cache.dir
