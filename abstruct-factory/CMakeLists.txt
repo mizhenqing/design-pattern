@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.18)
-project(simple-pattern)
+project(abstruct-factory)
 
 #
 set(CMAKE_CXX_COMPILER "c++")
